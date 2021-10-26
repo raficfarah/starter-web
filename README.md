@@ -1,6 +1,9 @@
 # Starter Web Project
 
-This project is for showing how Git and GitHub work. Updating for emergency fix after stashing.
+This project is to test, learn and show how Git and GitHub work.
+Every line was written for study purposes only.
+
+Updating for emergency fix after stashing.
 
 ## Introduction
 
